@@ -1,4 +1,4 @@
-# ssl-admin Makefile
+7# ssl-admin Makefile
 # $Id$
  
 ETCDIR?=/usr/local/etc
